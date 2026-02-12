@@ -30,6 +30,7 @@
   <a href="https://www.kaggle.com/shahriarahmedseam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/></a>
   <a href="https://www.researchgate.net/profile/Shahriar-Seam-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://hashnode.com/@shahriar-ahmed-seam"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
   <a href="https://codeforces.com/profile/Fizonel"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/fizonel/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
@@ -157,7 +158,7 @@ fun_fact: "I debug with print statements and I'm not ashamed 🐛"
 
 ### 💻 Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,go,kotlin,php,js,ts&theme=dark" alt="Languages"/>
 </p>
 
 ### 🤖 AI / ML / DL Libraries
@@ -168,20 +169,28 @@ fun_fact: "I debug with print statements and I'm not ashamed 🐛"
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-### 🌐 Web & Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,latex,vscode,bash&theme=dark" alt="Tools"/>
-</p>
-
-### 📊 Data & Visualization
-<p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 </p>
+
+### 🌐 Web & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,dotnet,flutter&theme=dark" alt="Web"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases"/>
+</p>
+
+### 🛠️ Dev Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,latex,vscode,bash,netlify&theme=dark" alt="Tools"/>
+</p>
+
+
 
 </div>
 
@@ -191,6 +200,7 @@ fun_fact: "I debug with print statements and I'm not ashamed 🐛"
 Computer Vision       ████████████████████████░░   95%
 Natural Language Proc ██████████████████████░░░░   88%
 Deep Learning         █████████████████████████░   96%
+Full Stack Development████████████████████░░░░░░   76%
 Competitive Prog      ██████████████████░░░░░░░░   72%
 Data Engineering      ████████████████░░░░░░░░░░   64%
 ```
@@ -258,9 +268,9 @@ Data Engineering      ████████████████░░░�
 
 | # | Project | Description | Tech Stack | Status |
 |:-:|---------|-------------|:----------:|:------:|
-| 1 | **SYNAPSE-Net** | Unified framework for robust brain lesion segmentation | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ✅ Published |
-| 2 | *Your Next Project* | *Description here* | *Tech badges* | 🔨 WIP |
-| 3 | *Your Next Project* | *Description here* | *Tech badges* | 📋 Planned |
+| 1 | [**SYNAPSE-Net**](https://github.com/shahriar-ahmed-seam) | Unified framework for robust brain lesion segmentation | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ✅ Published |
+| 2 | [**Cough-Diagnosis**](https://github.com/shahriar-ahmed-seam/Cough-Diagnosis) | AI-powered cough analysis and diagnosis system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ✅ Complete |
+| 3 | [**Gram-Sheba**](https://github.com/shahriar-ahmed-seam/Gram-Sheba) | Rural development platform for community services | ![Full Stack](https://img.shields.io/badge/-Full_Stack-61DAFB?style=flat-square&logo=react&logoColor=black) | ✅ Complete |
 
 > 💡 **Tip:** Pin your best repositories on your GitHub profile for maximum visibility!
 
@@ -351,17 +361,26 @@ timeline
 
 <!-- ────────────────── BLOG POSTS ────────────────── -->
 
-<!--
 ## ✍️ Latest Blog Posts
 
-< ! -- BLOG-POST-LIST:START -- >
-- Coming soon...
-< ! -- BLOG-POST-LIST:END -- >
+<div align="center">
+  <a href="https://hashnode.com/@shahriar-ahmed-seam">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+  <a href="https://custom-llm-twicking.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Custom_LLM_Twicking-Blog-2962FF?style=for-the-badge" alt="Blog"/>
+  </a>
+</div>
 
-➡️ [Read more on my blog](YOUR_BLOG_URL)
+<br/>
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more on my blog](https://custom-llm-twicking.hashnode.dev/)
 
 ---
--->
 
 <!-- ────────────────── SUPPORT ────────────────── -->
 

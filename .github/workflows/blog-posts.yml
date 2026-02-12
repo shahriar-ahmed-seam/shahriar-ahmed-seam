@@ -1,0 +1,41 @@
+# ──────────────────────────────────────────────────────────────
+# 📝 Auto-update Latest Blog Posts
+# Fetches your latest blog posts from Medium, Dev.to, etc.
+# and updates the README.md automatically
+# ──────────────────────────────────────────────────────────────
+# HOW TO USE:
+# 1. Uncomment the "Blog Posts" section in README.md
+# 2. Replace YOUR_BLOG_RSS_URL below with your actual RSS feed URL:
+#    - Medium:   https://medium.com/feed/@YOUR_USERNAME
+#    - Dev.to:   https://dev.to/feed/YOUR_USERNAME
+#    - Hashnode: https://YOUR_BLOG.hashnode.dev/rss.xml
+# ──────────────────────────────────────────────────────────────
+
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Hashnode RSS feed
+          feed_list: "https://custom-llm-twicking.hashnode.dev/rss.xml"
+          max_post_count: 5
+          template: "$newline- [$title]($url) — $date"
+          date_format: "mmm dd, yyyy"
+          commit_message: "docs: update latest blog posts"
