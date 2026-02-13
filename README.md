@@ -213,32 +213,28 @@ Data Engineering      ████████████████░░░�
 
 <div align="center">
 
-<!-- Stats Card + Streak Side by Side -->
-<a href="https://github.com/shahriar-ahmed-seam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahriar-ahmed-seam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&ring_color=6C63FF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-ahmed-seam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/>
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriar-ahmed-seam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-ahmed-seam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180"/>
+</p>
 
 <!-- Streak Stats -->
-<a href="https://github.com/shahriar-ahmed-seam">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahriar-ahmed-seam&theme=tokyonight&hide_border=true&border_radius=10&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</a>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-ahmed-seam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak" />
+</p>
 
 <!-- GitHub Trophies -->
-<a href="https://github.com/shahriar-ahmed-seam">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahriar-ahmed-seam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahriar-ahmed-seam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=6C63FF" alt="GitHub Trophies" />
+</p>
 
 </div>
 
 <!-- Contribution Graph -->
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriar-ahmed-seam&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriar-ahmed-seam&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" width="95%"/>
 </div>
 
 <!-- Contribution Snake Animation -->
