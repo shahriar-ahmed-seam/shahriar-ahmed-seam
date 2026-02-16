@@ -7,14 +7,6 @@
 <div align="center">
 
 <!-- -->
-<a href="https://shahriar-ahmed-seam.github.io/neural-hero-animation/" target="_blank">
-  <!-- The GIF acts as the preview -->
-  <img src="https://github.com/yourusername/neural-hero-animation/blob/main/preview.gif?raw=true" width="100%" alt="Click to view live animation" />
-</a>
-
-<p align="center">
-  👆 <b>Click the animation above to play with the live 3D version!</b>
-</p>
 <!-- -->
 
 <!-- Animated Typing SVG -->
