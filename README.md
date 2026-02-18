@@ -8,12 +8,7 @@
 
 <!-- -->
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/5aa28ca6-df79-4ab4-990a-8cb25071c045" 
-         muted autoplay loop playsinline width="100%" style="display: block;">
-  </video>
-</div>
-
+![ezgif-7c3a89ce35f32d9c](https://github.com/user-attachments/assets/442292c7-0d3d-4dc4-b7cd-f0aa190949bd)
 
 <!-- -->
 
