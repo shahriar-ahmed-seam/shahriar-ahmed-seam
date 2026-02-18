@@ -10,6 +10,8 @@
 
 ![ezgif-7c3a89ce35f32d9c](https://github.com/user-attachments/assets/442292c7-0d3d-4dc4-b7cd-f0aa190949bd)
 
+<img src="https://i.imgur.com" width="100%" alt="Profile Banner">
+
 <!-- -->
 
 <!-- Animated Typing SVG -->
