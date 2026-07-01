@@ -160,7 +160,7 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=meta&logoColor=white" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOCAyYy43NyAwIDEuNC42MyAxLjQgMS40djIuMDVBNS40OCA1LjQ4IDAgMCAxIDEyLjUgNC41SDE0QTUuNSA1LjUgMCAwIDEgMTkuNSAxMHY2LjhjMCAuODctLjQgMS43LTEuMDggMi4yNGwtMS40IDEuMTJjLS40LjMyLS45LjQ5LTEuNC40OUgxNHYtNC4yYzAtLjQtLjMyLS43Mi0uNzItLjcycy0uNzIuMzItLjcyLjcyVjIxSDlhNSA1IDAgMCAxLTUtNVY2LjFjMC0uNDIuMS0uODIuMy0xLjE3LS40Mi0uMjgtLjctLjc2LS43LTEuM0MzLjYgMi44MiA0LjQyIDIgNS40IDJ6Ii8%2BPC9zdmc%2B&logoColor=white" alt="LlamaIndex"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
 </td>
 </tr>
@@ -181,8 +181,8 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 <td valign="top"><b>Data / Infra</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,kubernetes,git,linux&theme=dark" alt="Infra"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" alt="Pinecone"/>
-<img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat&logoColor=white" alt="Chroma"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSIjZmZmIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjQiIHI9IjIiLz48Y2lyY2xlIGN4PSI4LjUiIGN5PSI5IiByPSIyIi8%2BPGNpcmNsZSBjeD0iMTUuNSIgY3k9IjkiIHI9IjIiLz48Y2lyY2xlIGN4PSI1IiBjeT0iMTQiIHI9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjE0IiByPSIyIi8%2BPGNpcmNsZSBjeD0iMTkiIGN5PSIxNCIgcj0iMiIvPjxjaXJjbGUgY3g9IjguNSIgY3k9IjE5IiByPSIyIi8%2BPGNpcmNsZSBjeD0iMTUuNSIgY3k9IjE5IiByPSIyIi8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSIjZmZmIiBmaWxsLW9wYWNpdHk9IjAuODgiPjxjaXJjbGUgY3g9IjkiIGN5PSI5IiByPSI2Ii8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSI5IiByPSI2Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxNS41IiByPSI2Ii8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Chroma"/>
 </td>
 </tr>
 <tr>
@@ -205,19 +205,19 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 <th align="left">Certification</th>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft"/></td>
+<td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMiAyaDl2OUgyek0xMyAyaDl2OWgtOXpNMiAxM2g5djlIMnpNMTMgMTNoOXY5aC05eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Microsoft"/></td>
 <td>AI &amp; ML Engineering — end-to-end ML infrastructure on Azure</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/></td>
+<td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNNCAxMmM0IDQuNSAxMiA0LjUgMTYgMCIvPjwvZz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjAuNSAxMi4ybC0uNiAzLjQtMi45LTEuOXoiLz48L3N2Zz4%3D&logoColor=white" alt="AWS"/></td>
 <td>Solutions Architect</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/></td>
+<td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSIjZmZmIj48cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iMjAiIGhlaWdodD0iMS44Ii8%2BPHJlY3QgeD0iMiIgeT0iOC40IiB3aWR0aD0iMjAiIGhlaWdodD0iMS44Ii8%2BPHJlY3QgeD0iMiIgeT0iMTEuOCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjEuOCIvPjxyZWN0IHg9IjIiIHk9IjE1LjIiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxLjgiLz48cmVjdCB4PSIyIiB5PSIxOC42IiB3aWR0aD0iMjAiIGhlaWdodD0iMS44Ii8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="IBM"/></td>
 <td>Generative AI with LLMs&nbsp; · &nbsp;RAG &amp; Agentic AI&nbsp; · &nbsp;Multimodal Generative AI&nbsp; · &nbsp;DevOps, Cloud &amp; Agile</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/CNCF-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CNCF"/></td>
+<td><img src="https://img.shields.io/badge/CNCF-326CE5?style=flat-square&logo=cncf&logoColor=white" alt="CNCF"/></td>
 <td>Certified Kubernetes Administrator (CKA)</td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 <td>Generative AI</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/DeepLearning.AI-EF7C00?style=flat-square&logo=coursera&logoColor=white" alt="DeepLearning.AI"/></td>
+<td><img src="https://img.shields.io/badge/DeepLearning.AI-EF7C00?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMC44Ij48cGF0aCBkPSJNNCA0IDEyIDhNNCA0IDEyIDE2TTQgMTIgMTIgOE00IDEyIDEyIDE2TTQgMjAgMTIgOE00IDIwIDEyIDE2TTEyIDggMjAgMTJNMTIgMTYgMjAgMTIiLz48L2c%2BPGcgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjEuOSIvPjxjaXJjbGUgY3g9IjQiIGN5PSIxMiIgcj0iMS45Ii8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjIwIiByPSIxLjkiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjEuOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTYiIHI9IjEuOSIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMTIiIHI9IjEuOSIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="DeepLearning.AI"/></td>
 <td>Deep Neural Networks — Hyperparameter Tuning &amp; Optimization</td>
 </tr>
 </table>
@@ -242,10 +242,10 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=shahriar-ahmed-seam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" height="175"/>
+<img src="https://profile-widgets-tau.vercel.app/api/stats?username=shahriar-ahmed-seam&theme=tokyonight" alt="GitHub Stats" height="175"/>
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-ahmed-seam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="175"/>
+<img src="https://profile-widgets-tau.vercel.app/api/languages?username=shahriar-ahmed-seam&count=8&theme=tokyonight" alt="Top Languages" height="175"/>
 </td>
 </tr>
 </table>
