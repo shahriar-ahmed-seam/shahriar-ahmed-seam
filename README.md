@@ -26,39 +26,39 @@
 
 <!-- ─────────────────────────── ABOUT ─────────────────────────── -->
 
-## 👋 About Me
+## About
 
-I'm **Shahriar Ahmed Seam**, an **AI/ML Engineer** and final-year CSE student at **BUET**. I build intelligent systems that don't stop at the notebook — I take them all the way to shipped, production-grade products.
+I'm an AI/ML Engineer and final-year CSE student at BUET. I build intelligent systems and take them from research to production — LLM and agentic applications, applied computer vision, and the full-stack engineering that ships them.
 
-- 🤖 **AI/ML core** — Agentic systems, LLM apps with RAG, generative AI, computer vision, and model fine-tuning & serving.
-- 🚀 **Full-cycle engineer** — I own the whole stack: FastAPI/Go backends, Next.js/React frontends, mobile (Flutter/Kotlin), and the databases, containers, and CI/CD that hold it together.
-- 🧪 **Research-backed** — First-author work on brain lesion segmentation (SYNAPSE-Net).
-- 🎯 **What drives me** — Making AI *deployable and scalable*, so the intelligence of a model is matched by the engineering behind it.
+First-author on SYNAPSE-Net, a framework for robust brain lesion segmentation. Currently focused on agentic AI, RAG systems, and generative models.
 
 ---
 
 <!-- ─────────────────────────── WHAT I BUILD ─────────────────────────── -->
 
-## 🧠 What I Build
+## What I Build
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 LLM & Agentic Systems
-Multi-agent workflows, RAG pipelines, tool-use, and swappable LLM providers (OpenRouter · Ollama · Gemini). Sandboxed agent execution and on-device AI.
+**LLM &amp; Agentic Systems**
+
+Multi-agent workflows, RAG pipelines, and sandboxed agent execution with swappable LLM providers.
 
 </td>
 <td width="33%" valign="top">
 
-### 🔬 Applied ML & CV
-Diffusion & generative models, medical image segmentation, edge inference with INT8 quantization, and high-performance model optimization.
+**Applied ML &amp; Computer Vision**
+
+Generative and diffusion models, medical image segmentation, and edge inference with quantization.
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Production Engineering
-Distributed systems, message queues, real-time services, and cross-platform apps — deployed, monitored, and built to scale.
+**Production Engineering**
+
+Distributed systems, real-time services, and cross-platform apps — built to deploy and scale.
 
 </td>
 </tr>
@@ -68,28 +68,28 @@ Distributed systems, message queues, real-time services, and cross-platform apps
 
 <!-- ─────────────────────────── FEATURED PROJECTS ─────────────────────────── -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
-> A curated snapshot. Explore the rest of my **85+ repositories** → [github.com/shahriar-ahmed-seam?tab=repositories](https://github.com/shahriar-ahmed-seam?tab=repositories)
+A selected few from 85+ repositories. [Browse all &rarr;](https://github.com/shahriar-ahmed-seam?tab=repositories)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 [AI-Code-Sandbox](https://github.com/shahriar-ahmed-seam/AI-Code-Sandbox)
-Secure, ephemeral code-execution infrastructure for **AI agents** — isolated Docker sandboxes, strict resource limits, a FastAPI gateway, and a v0-style Next.js playground.
+### [AI-Code-Sandbox](https://github.com/shahriar-ahmed-seam/AI-Code-Sandbox)
+Secure, ephemeral code-execution infrastructure for AI agents — isolated Docker sandboxes behind a FastAPI gateway.
 
-`Docker` · `FastAPI` · `Next.js` · `Go` · `LLM`
+`Docker` · `FastAPI` · `Next.js` · `Go`
 
-[![Live](https://img.shields.io/badge/▶_Live_Demo-6C63FF?style=flat-square)](https://ai-code-sandbox-one.vercel.app/) [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/AI-Code-Sandbox)
+[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square)](https://ai-code-sandbox-one.vercel.app/) [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/AI-Code-Sandbox)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Character-Chat-AI](https://github.com/shahriar-ahmed-seam/Character-Chat-AI)
-Multi-character AI chat across **web (PWA), Android, and Telegram** — one FastAPI backend with persistent memory, auth, RAG, and swappable LLM providers.
+### [Character-Chat-AI](https://github.com/shahriar-ahmed-seam/Character-Chat-AI)
+Multi-character AI chat across web, Android, and Telegram — one FastAPI backend with persistent memory and RAG.
 
-`FastAPI` · `RAG` · `React` · `PostgreSQL` · `Ollama`
+`FastAPI` · `RAG` · `React` · `PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/Character-Chat-AI)
 
@@ -98,44 +98,44 @@ Multi-character AI chat across **web (PWA), Android, and Telegram** — one Fast
 <tr>
 <td width="50%" valign="top">
 
-### 🧿 [Cortex](https://github.com/shahriar-ahmed-seam/cortex)
-Private, **offline-first AI assistant** for Windows 11 powered by local LLMs (Ollama). Cinematic Next.js product site plus a native WinUI 3 desktop app.
+### [Cortex](https://github.com/shahriar-ahmed-seam/cortex)
+Private, offline-first AI assistant for Windows 11 powered by local LLMs, with a native WinUI 3 desktop app.
 
-`C#` · `WinUI 3` · `Next.js` · `Ollama` · `Local AI`
+`C#` · `WinUI 3` · `Next.js` · `Ollama`
 
 [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/cortex)
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 [Blast-Notify-Engine](https://github.com/shahriar-ahmed-seam/Blast-Notify-Engine)
-A high-scale notification engine — **a million messages in five minutes**. Durable RabbitMQ queueing, atomic Redis rate limiting, and a real-time Next.js console.
+### [Blast-Notify-Engine](https://github.com/shahriar-ahmed-seam/Blast-Notify-Engine)
+High-throughput notification engine — a million messages in five minutes over RabbitMQ and Redis.
 
-`FastAPI` · `RabbitMQ` · `Redis` · `Next.js` · `Distributed`
+`FastAPI` · `RabbitMQ` · `Redis` · `Next.js`
 
-[![Live](https://img.shields.io/badge/▶_Live_Demo-6C63FF?style=flat-square)](https://blast-notify-engine.vercel.app) [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/Blast-Notify-Engine)
+[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square)](https://blast-notify-engine.vercel.app) [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/Blast-Notify-Engine)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 [CoreGrid](https://github.com/shahriar-ahmed-seam/coregrid)
-The Autonomous Enterprise System — a full-stack **AI-native ERP** (HR, CRM, Inventory, Finance, Projects) with private on-device AI. Runs standalone for instant demos.
+### [CoreGrid](https://github.com/shahriar-ahmed-seam/coregrid)
+Full-stack, AI-native ERP (HR, CRM, Inventory, Finance) with private on-device AI. Runs standalone for demos.
 
-`Next.js` · `Prisma` · `Ollama` · `TypeScript` · `SaaS`
+`Next.js` · `Prisma` · `Ollama` · `TypeScript`
 
-[![Live](https://img.shields.io/badge/▶_Live_Demo-6C63FF?style=flat-square)](https://coregrid.vercel.app) [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/coregrid)
+[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square)](https://coregrid.vercel.app) [![Repo](https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github)](https://github.com/shahriar-ahmed-seam/coregrid)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [SYNAPSE-Net](https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ) &nbsp;`📄 Research`
-A unified framework with **lesion-aware hierarchical gating** for robust segmentation of heterogeneous brain lesions. First-author publication.
+### [SYNAPSE-Net](https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ) &nbsp;`Research`
+A framework with lesion-aware hierarchical gating for robust brain lesion segmentation. First-author publication.
 
 `PyTorch` · `Computer Vision` · `Medical Imaging`
 
-[![Paper](https://img.shields.io/badge/📄_Read_on_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ)
+[![Paper](https://img.shields.io/badge/Read_on_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ)
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 
 <!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -197,7 +197,7 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 
 <!-- ─────────────────────────── CERTIFICATIONS ─────────────────────────── -->
 
-## 📜 Certifications
+## Certifications
 
 <table>
 <tr>
@@ -236,7 +236,7 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 
 <!-- ─────────────────────────── GITHUB STATS ─────────────────────────── -->
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
@@ -249,8 +249,6 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 </td>
 </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-ahmed-seam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -272,7 +270,7 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 
 <!-- ─────────────────────────── COMPETITIVE (SECONDARY) ─────────────────────────── -->
 
-## 🏆 Competitive Programming & Kaggle
+## Competitive Programming & Kaggle
 
 <div align="center">
 <table border="0" cellspacing="0">
@@ -309,23 +307,25 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 
 <!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 <table border="0" cellspacing="0">
 <tr>
 <td align="center" width="115">
 <a href="https://www.linkedin.com/in/shahriar-ahmed-seam/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/><br/>
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/><br/>
 <sub><b>LinkedIn</b></sub>
 </a>
 </td>
+<!-- Scholar (add back later if needed)
 <td align="center" width="115">
 <a href="https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ">
 <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="40" height="40" alt="Google Scholar"/><br/>
 <sub><b>Scholar</b></sub>
 </a>
 </td>
+-->
 <td align="center" width="115">
 <a href="https://www.researchgate.net/profile/Shahriar-Seam-2">
 <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="40" height="40" alt="ResearchGate"/><br/>
@@ -349,7 +349,7 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 </div>
 
 <!-- Latest Blog Posts -->
-### ✍️ Latest from my blog
+### Latest Writing
 <!-- BLOG-POST-LIST:START -->
 - Coming soon...
 <!-- BLOG-POST-LIST:END -->
