@@ -239,11 +239,18 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 ## 📈 GitHub Stats
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=shahriar-ahmed-seam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" height="175"/>
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-ahmed-seam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6C63FF&text_color=c9d1d9&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" height="175"/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahriar-ahmed-seam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-ahmed-seam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-ahmed-seam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-ahmed-seam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -268,12 +275,34 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 ## 🏆 Competitive Programming & Kaggle
 
 <div align="center">
-
-<a href="https://codeforces.com/profile/Fizonel"><img src="https://img.shields.io/badge/Codeforces-Fizonel-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://leetcode.com/u/fizonel/"><img src="https://img.shields.io/badge/LeetCode-fizonel-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.kaggle.com/shahriarahmedseam"><img src="https://img.shields.io/badge/Kaggle-shahriarahmedseam-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-
+<table border="0" cellspacing="0">
+<tr>
+<td align="center" width="115">
+<a href="https://codeforces.com/profile/Fizonel">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="38" height="38" alt="Codeforces"/><br/>
+<sub><b>Codeforces</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://leetcode.com/u/fizonel/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" height="38" alt="LeetCode"/><br/>
+<sub><b>LeetCode</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://www.kaggle.com/shahriarahmedseam">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="38" height="38" alt="Kaggle"/><br/>
+<sub><b>Kaggle</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://www.hackerrank.com/">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="38" height="38" alt="HackerRank"/><br/>
+<sub><b>HackerRank</b></sub>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -283,13 +312,40 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 ## 🤝 Connect
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/shahriar-ahmed-seam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
-<a href="https://www.researchgate.net/profile/Shahriar-Seam-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-<a href="https://custom-llm-twicking.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
-<a href="https://www.kaggle.com/shahriarahmedseam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-
+<table border="0" cellspacing="0">
+<tr>
+<td align="center" width="115">
+<a href="https://www.linkedin.com/in/shahriar-ahmed-seam/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/><br/>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ">
+<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="40" height="40" alt="Google Scholar"/><br/>
+<sub><b>Scholar</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://www.researchgate.net/profile/Shahriar-Seam-2">
+<img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="40" height="40" alt="ResearchGate"/><br/>
+<sub><b>ResearchGate</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://www.kaggle.com/shahriarahmedseam">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="Kaggle"/><br/>
+<sub><b>Kaggle</b></sub>
+</a>
+</td>
+<td align="center" width="115">
+<a href="https://custom-llm-twicking.hashnode.dev/">
+<img src="https://cdn.simpleicons.org/hashnode/2962FF" width="40" height="40" alt="Blog"/><br/>
+<sub><b>Blog</b></sub>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Latest Blog Posts -->
@@ -302,8 +358,6 @@ A unified framework with **lesion-aware hierarchical gating** for robust segment
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<i>Building products where the intelligence of the model is matched by the engineering behind it.</i>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,12,20&height=170&section=footer&text=Let's%20build%20something%20intelligent&fontSize=30&fontColor=ffffff&fontAlignY=68&desc=Where%20the%20intelligence%20of%20the%20model%20is%20matched%20by%20the%20engineering%20behind%20it&descSize=15&descAlignY=90" alt="footer"/>
 
 </div>
