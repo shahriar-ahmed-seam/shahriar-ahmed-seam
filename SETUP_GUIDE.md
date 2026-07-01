@@ -17,23 +17,16 @@ Your badges and README will show on your GitHub profile when you:
 
 ```bash
 # Navigate to your project folder
-cd "c:\Users\Seam\Desktop\L4T1\Apps\github profile"
+cd "c:\Users\Seam\Desktop\NEW_APPS\git_profile\shahriar-ahmed-seam"
 
-# Initialize git (if not already done)
-git init
-
-# Add your files
+# Stage the README (remote is already configured)
 git add README.md
 
 # Commit your changes
-git commit -m "Add GitHub profile README"
-
-# Add your GitHub repository as remote
-git remote add origin https://github.com/shahriar-ahmed-seam/shahriar-ahmed-seam.git
+git commit -m "docs: redesign profile README (AI/ML Engineer focus)"
 
 # Push to GitHub
-git branch -M main
-git push -u origin main
+git push
 ```
 
 ---
