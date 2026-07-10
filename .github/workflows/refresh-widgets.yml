@@ -1,0 +1,37 @@
+name: Refresh README widgets
+
+# Keeps the self-hosted stats/language cards (and other README images) up to date.
+# GitHub proxies README images through its Camo cache, which can hold a stale
+# copy for a long time. This workflow periodically purges the Camo cache so the
+# widgets re-fetch fresh data from the widget service.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # allow manual runs from the Actions tab
+
+permissions:
+  contents: read
+
+jobs:
+  purge-camo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Camo cache for profile README images
+        run: |
+          set -e
+          echo "Fetching rendered profile page..."
+          html=$(curl -sL "https://github.com/${GITHUB_REPOSITORY_OWNER}")
+          urls=$(printf '%s' "$html" | grep -oE 'https://camo\.githubusercontent\.com/[A-Za-z0-9./_-]+' | sort -u)
+          if [ -z "$urls" ]; then
+            echo "No Camo URLs found (nothing to purge)."
+            exit 0
+          fi
+          count=0
+          for u in $urls; do
+            if curl -s -o /dev/null -X PURGE "$u"; then
+              echo "purged: $u"
+              count=$((count+1))
+            fi
+          done
+          echo "Purged $count cached image(s)."
