@@ -9,12 +9,13 @@
 <!-- Signature GIF (hand-built) -->
 ![Shahriar Ahmed Seam](https://github.com/user-attachments/assets/442292c7-0d3d-4dc4-b7cd-f0aa190949bd)
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=60&lines=AI%2FML+Engineer+who+ships+end-to-end+products;Agentic+AI+%7C+LLM+Systems+%26+RAG+%7C+Generative+AI;From+research+notebook+to+production+at+scale)](https://git.io/typing-svg)
+<!-- Tagline -->
+<h3>AI/ML Engineer who ships end-to-end products — Agentic AI · LLM Systems &amp; RAG · Generative AI</h3>
 
 <!-- Status Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/shahriar-ahmed-seam/"><img src="https://img.shields.io/badge/Open_to_AI%2FML_Roles-6C63FF?style=flat-square&labelColor=0d1117" alt="Open to work"/></a>
+  <a href="https://www.linkedin.com/in/shahriar-ahmed-seam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;<img src="https://img.shields.io/badge/Open_to_AI%2FML_Roles-6C63FF?style=flat-square&labelColor=0d1117" alt="Open to work"/>
   &nbsp;<img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_LLM_Systems-6C63FF?style=flat-square&labelColor=0d1117&logo=openai&logoColor=white" alt="Focus"/>
   &nbsp;<img src="https://img.shields.io/badge/Dhaka,_Bangladesh-6C63FF?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white" alt="Location"/>
   &nbsp;<a href="assets/Shahriar-Ahmed-Seam-CV.pdf"><img src="https://img.shields.io/badge/Resume-6C63FF?style=flat-square&labelColor=0d1117&logo=readdotcv&logoColor=white" alt="Resume"/></a>
@@ -34,6 +35,16 @@ First-author on SYNAPSE-Net, a framework for robust brain lesion segmentation. T
 
 ---
 
+<!-- ─────────────────────────── EXPERIENCE ─────────────────────────── -->
+
+## Experience
+
+**Founder &amp; AI/ML Engineer** · [Somokolon Labs](https://somokolonlabs.com) &nbsp; <sub>Jan 2026 – Present</sub>
+
+Founded and run an AI and software studio that ships LLM, RAG, generative-AI, and full-stack products end to end — including production point-of-sale (POS) software for small retail businesses, from requirements through deployment. Own the full lifecycle: research, engineering, CI/CD, cloud deployment, and monitoring across the studio's shared infrastructure.
+
+---
+
 <!-- ─────────────────────────── WHAT I BUILD ─────────────────────────── -->
 
 ## What I Build
@@ -44,21 +55,21 @@ First-author on SYNAPSE-Net, a framework for robust brain lesion segmentation. T
 
 **LLM &amp; Agentic Systems**
 
-Multi-agent workflows, RAG pipelines, and sandboxed agent execution with swappable LLM providers.
+Multi-agent orchestration (plan → research → code → critique), RAG pipelines over documents, and offline-capable agents with swappable local/cloud LLM providers.
 
 </td>
 <td width="33%" valign="top">
 
-**Applied ML &amp; Computer Vision**
+**Applied ML, CV &amp; Systems**
 
-Generative and diffusion models, medical image segmentation, and edge inference with quantization.
+Generative &amp; diffusion models, on-device inference (ONNX, edge AI), and performance-critical systems — including a vector database built from scratch with AVX-512 kernels.
 
 </td>
 <td width="33%" valign="top">
 
 **Production Engineering**
 
-Distributed systems, real-time services, and cross-platform apps — built to deploy and scale.
+Fault-tolerant microservices, offline-first architectures for low-connectivity environments, and full-stack products taken from research notebook to deployed, monitored infrastructure.
 
 </td>
 </tr>
@@ -307,54 +318,11 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 
 ---
 
-<!-- ─────────────────────────── CONNECT ─────────────────────────── -->
-
-## Connect
-
 <div align="center">
-<table border="0" cellspacing="0">
-<tr>
-<td align="center" width="115">
-<a href="https://www.linkedin.com/in/shahriar-ahmed-seam/">
-<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/><br/>
-<sub><b>LinkedIn</b></sub>
-</a>
-</td>
-<!-- Scholar (add back later if needed)
-<td align="center" width="115">
-<a href="https://scholar.google.com/citations?hl=en&user=qKUzwGwAAAAJ">
-<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="40" height="40" alt="Google Scholar"/><br/>
-<sub><b>Scholar</b></sub>
-</a>
-</td>
--->
-<td align="center" width="115">
-<a href="https://www.researchgate.net/profile/Shahriar-Seam-2">
-<img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="40" height="40" alt="ResearchGate"/><br/>
-<sub><b>ResearchGate</b></sub>
-</a>
-</td>
-<td align="center" width="115">
-<a href="https://www.kaggle.com/shahriarahmedseam">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="Kaggle"/><br/>
-<sub><b>Kaggle</b></sub>
-</a>
-</td>
-<td align="center" width="115">
-<a href="https://custom-llm-twicking.hashnode.dev/">
-<img src="https://cdn.simpleicons.org/hashnode/2962FF" width="40" height="40" alt="Blog"/><br/>
-<sub><b>Blog</b></sub>
-</a>
-</td>
-</tr>
-</table>
-</div>
 
-<!-- Latest Blog Posts -->
-### Latest Writing
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
+<sub><a href="https://www.researchgate.net/profile/Shahriar-Seam-2">ResearchGate</a> &nbsp;·&nbsp; <a href="https://custom-llm-twicking.hashnode.dev/">Blog</a></sub>
+
+</div>
 
 ---
 
