@@ -9,16 +9,10 @@
 <!-- Signature GIF (hand-built) -->
 ![Shahriar Ahmed Seam](https://github.com/user-attachments/assets/442292c7-0d3d-4dc4-b7cd-f0aa190949bd)
 
-<!-- Tagline -->
-<h3>AI/ML Engineer who ships end-to-end products — Agentic AI · LLM Systems &amp; RAG · Generative AI</h3>
-
 <!-- Status Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/shahriar-ahmed-seam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;<img src="https://img.shields.io/badge/Open_to_AI%2FML_Roles-6C63FF?style=flat-square&labelColor=0d1117" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Open_to_AI%2FML,_Software_%26_Full--Stack_Roles-6C63FF?style=flat-square&labelColor=0d1117" alt="Open to work"/>
   &nbsp;<img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_LLM_Systems-6C63FF?style=flat-square&labelColor=0d1117&logo=openai&logoColor=white" alt="Focus"/>
-  &nbsp;<img src="https://img.shields.io/badge/Dhaka,_Bangladesh-6C63FF?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white" alt="Location"/>
-  &nbsp;<a href="assets/Shahriar-Ahmed-Seam-CV.pdf"><img src="https://img.shields.io/badge/Resume-6C63FF?style=flat-square&labelColor=0d1117&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 </p>
 
 </div>
@@ -29,9 +23,9 @@
 
 ## About
 
-I'm an AI/ML Engineer and CSE student at BUET, and founder of [Somokolon Labs](https://somokolonlabs.com) — an AI & software studio that ships LLM, RAG, and generative-AI products end to end. I work across the modern AI stack (LLMs, RAG, agentic systems, generative AI, NLP, computer vision, diffusion models) and turn research into production-grade systems on fault-tolerant microservices.
+I'm an AI/ML Engineer and final-year CSE student at BUET. I build intelligent systems and take them from research to production — LLM and agentic applications, applied computer vision, and the full-stack engineering that ships them.
 
-First-author on SYNAPSE-Net, a framework for robust brain lesion segmentation. To me, AI should be a core, observable part of production infrastructure — not just an add-on.
+First-author on SYNAPSE-Net, a framework for robust brain lesion segmentation. Currently focused on agentic AI, RAG systems, and generative models.
 
 ---
 
@@ -41,7 +35,7 @@ First-author on SYNAPSE-Net, a framework for robust brain lesion segmentation. T
 
 **Founder &amp; AI/ML Engineer** · [Somokolon Labs](https://somokolonlabs.com) &nbsp; <sub>Jan 2026 – Present</sub>
 
-Founded and run an AI and software studio that ships LLM, RAG, generative-AI, and full-stack products end to end — including production point-of-sale (POS) software for small retail businesses, from requirements through deployment. Own the full lifecycle: research, engineering, CI/CD, cloud deployment, and monitoring across the studio's shared infrastructure.
+Founded and run an AI and software studio that ships LLM, RAG, generative-AI, and full-stack products end to end — including production software for small businesses, from requirements through deployment. Own the full lifecycle: research, engineering, CI/CD, cloud deployment, and monitoring across the studio's shared infrastructure.
 
 ---
 
@@ -314,14 +308,6 @@ A framework with lesion-aware hierarchical gating for robust brain lesion segmen
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<div align="center">
-
-<sub><a href="https://www.researchgate.net/profile/Shahriar-Seam-2">ResearchGate</a> &nbsp;·&nbsp; <a href="https://custom-llm-twicking.hashnode.dev/">Blog</a></sub>
-
 </div>
 
 ---
